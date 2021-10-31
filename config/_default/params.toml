@@ -83,7 +83,7 @@ baidu = "" # Your verification code
 
 # google map
 [gmap]
-enable = true
+enable = false
 gmap_api = "AIzaSyBchwtAoQWclcm-GRFhEdzESF_WR_meiqQ"
 map_latitude = "47.99288"
 map_longitude = "-4.09141"
