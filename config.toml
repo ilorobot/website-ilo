@@ -1,6 +1,6 @@
-baseURL = "https://ilorobot.com"
+baseURL = "https://ilorobot.github.io/"
 languageCode = "fr-FR"
 title = "ilo the robot"
 themesDir = "themes"
-theme = "airspace-hugo-n"
+theme = "airspace-hugo"
 
