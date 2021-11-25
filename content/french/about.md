@@ -9,7 +9,7 @@ draft: false
 ################################## About #####################################
 about:
   enable : true
-  image : "images/ilov2.png"
+  image : "images/about.png"
   title : "La programmation accessible pour tous !"
   content : "Le robot éducatif d'ILO est facile à prendre en main et innovant. Il saura accompagner des plus jeunes aux plus expérimenter dans leurs apprentissage de la programmation. <br> <br>
   

@@ -9,7 +9,7 @@ draft: false
 ################################## About #####################################
 about:
   enable : true
-  image : "images/company/about.png"
+  image : "images/about.png"
   title : "We strive to offer the easiest way <br> to progress in programming."
   content : "We aim to make it easy for as many people as possible to learn abstract concepts.
   
