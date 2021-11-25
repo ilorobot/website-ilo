@@ -1,5 +1,5 @@
 ---
-title: "About the project ilo"
+title: "About the project ILO"
 description: "these are key points about our project"
 bg_image: "images/feature-bg.png"
 layout: "about"

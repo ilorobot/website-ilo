@@ -4,8 +4,11 @@ banner:
   enable: true
   bg_image: "images/slider-bg.png"
   bg_overlay: true
-  title: "Le meilleur robot éducatif"
-  content: "Les robots sont la meilleure solution pour apprendre la programmation dès le plus jeune âge. Nous proposons une solution appelée ilo, avec laquelle chaque enfant peut programmer individuellement, directement avec une feuille et un stylo"
+  title: "Le robot éducatif français"
+  content: "Les robots sont la meilleure solution pour apprendre la programmation dès le plus jeune âge. ILO c’est le robot éducatif français programmable.
+  Il est intuitif et adapté à l’apprentissage. Découvrez ses modes d’utilisations développés pour garantir une prise en main rapide. C’est un robot innovant
+  et ultra performant grâce à un système embarqué d’intelligence artificielle."
+  
   button:
     enable: true
     label: "Découvrez"
@@ -15,7 +18,7 @@ banner:
 about:
   enable: true
   title: "à propos d'ilo"
-  description: "La programmation est de plus en plus utilisée dans la plupart des métiers. Cependant seule une minorité de personne comprennent les concepts, et pour y pallier nous proposons une solution libre de droits."
+  description: "La programmation est de plus en plus utilisée dans la plupart des métiers. Cependant seule une minorité de personne comprennent les concepts. Pour répondre à ce besoin grandissant nous proposons une solution libre de droits pour tester en réel vos idées de programmation."
   content: "Le robot ilo est équipé de roues omnidirectionnnelles, lui permettant de se déplacer dans toutes les directions. En utilisant l'application dédiée, il est possible de le programmer de différentes manières pour le faire se déplacer."
   image: "images/wrapper-img.png"
 
@@ -44,7 +47,7 @@ cta:
   enable: true
   bg_image: "images/call-to-action-bg.jpg"
   title: "Nous proposons une nouvelle manière de coder"
-  content: "Lisez-en plus plus à propos de ce que nous proposons à nos utilisateurs.<br>N'hésitez pas à nous contacter pour en savoir plus à propos du projet."
+  content: "ILO est support tangible pour l'apprentissage de la programamtion.<br>N'hésitez pas à nous contacter pour en savoir plus à propos du projet."
   button:
     enable: true
     label: "Nous Contacter"
