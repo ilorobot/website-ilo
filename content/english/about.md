@@ -22,11 +22,6 @@ about:
 
   funfacts:
   # funfacts loop
-  #- icon : "fas fa-flask" #https://fontawesome.com/v5.15/icons
-  #  name : "Completed Projects"
-  #  count : "349"
-
-  # funfacts loop
   - icon : "fas fa-fire-alt" #https://fontawesome.com/v5.15/icons
     name : "Lines Of Code"
     count : "8473"
@@ -37,19 +32,10 @@ about:
     count : "33"
 
   # funfacts loop
-  #- icon : "fas fa-trophy" #https://fontawesome.com/v5.15/icons
-  #  name : "Awards Winner"
-  #  count : "10"
-
-  # funfacts loop
   - icon : "fas fa-glass-cheers" #https://fontawesome.com/v5.15/icons
     name : "Satisfied Teachers"
     count : "1"
 
-  # funfacts loop
-  #- icon : "fas fa-certificate" #https://fontawesome.com/v5.15/icons
-  #  name : "Awards Winner"
-  #  count : "20"
 
 ################################ feature #####################################
 features:
@@ -62,29 +48,25 @@ features:
     content : "A free application will soon be available, to ease robot configuration and to permit a plug-and-play"
 
   # feature item loop
-  - icon : "fas fa-unlock" #https://fontawesome.com/v5.15/icons
-    name : "Robot Secutity"
+  - icon : "fas fa-paper-plane" #https://fontawesome.com/v5.15/icons
+    name : "Stable Experience"
     content : "The robot and its App have a secure link, allowing a stable user experience"
 
   # feature item loop
   - icon : "fas fa-gamepad" #https://fontawesome.com/v5.15/icons
-    name : "Games Development"
+    name : "Games"
     content : "Because learning is also playing, we propose multiple activities depending on user expectations"
 
   # feature item loop
-  #- icon : "fas fa-microphone" #https://fontawesome.com/v5.15/icons
-  #  name : "Animation and Editing"
-  #  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-  # feature item loop
-  - icon : "fas fa-lightbulb" #https://fontawesome.com/v5.15/icons
-    name : "Open-source Solution"
+  - icon : "fab fa-osi" #https://fontawesome.com/v5.15/icons
+    name : "Open-source"
     content : "Because we want a durable robot, our solution is open-source to be adapted with its time and to be compatible with future technologies"
 
   # feature item loop
-  #- icon : "fas fa-star-of-life" #https://fontawesome.com/v5.15/icons
-  #  name : "Branding"
-  #  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+  - icon : "fas fa-user-graduate" #https://fontawesome.com/v5.15/icons
+    name : "Education"
+    content : "Follow student during his education from primary school to university"
+
 
 
 #################################### testimonial & mission vision #######################################

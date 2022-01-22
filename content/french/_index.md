@@ -60,15 +60,16 @@ funfacts:
   description: "'Que nous soyons basés sur le carbone ou sur le silicium ne fait aucune différence fondamentale ; nous devrions tous être traités avec le respect qui s'impose'. <br>
 - Arthur C. Clarke, 2010 : Odyssey Two "
   funfact_item:
+  funfact_item:
   # funfacts item loop
   - icon: "fas fa-mug-hot" #https://fontawesome.com/v5.15/icons
     name: "Cafés livrés par ilo pour nous"
     count: "56"
 
   # funfacts item loop
-  - icon: "fas fa-glasses" #https://fontawesome.com/v5.15/icons
-    name: "Lunettes cassées par ilo"
-    count: "0"
+  - icon: "fas fa-ruler" #https://fontawesome.com/v5.15/icons
+    name: "Mètres de plastique imprimés en 3D"
+    count: "192"
 
   # funfacts item loop
   - icon: "fas fa-keyboard" #https://fontawesome.com/v5.15/icons
@@ -79,6 +80,16 @@ funfacts:
   - icon: "fas fa-clock" #https://fontawesome.com/v5.15/icons
     name: "Heures travaillées sur le projet"
     count: "2563"
+
+  # funfacts item loop
+  - icon: "fas fa-user-graduate" #https://fontawesome.com/v5.15/icons
+    name: "Enfants satisfaits"
+    count: "33"
+
+  # funfacts item loop
+  - icon: "fas fa-chalkboard-teacher" #https://fontawesome.com/v5.15/icons
+    name: "Professeurs satisfaits"
+    count: "1"
 
   testimonial_slider:
   # testimonial item loop

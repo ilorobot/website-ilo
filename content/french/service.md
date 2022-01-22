@@ -26,6 +26,12 @@ featured_service:
   service_item:
     # featured service item loop
     - name : "Interface Design"
+      icon : "fas fa-graduation-cap"
+      color : "primary"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
+
+    # featured service item loop
+    - name : "Interface Design"
       icon : "fas fa-flask"
       color : "primary"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
@@ -49,15 +55,36 @@ service:
   title : "Nos Services"
   description : "Nous voulons proposer un robot, son application mobile, et différents tutoriels pour les enseignants et les élèves. Nous voulons aussi proposer une service après vente pour assurer une utilisation durable du robot."
   service_item:
-        # service item loop
-    - icon : fas fa-bullseye #https://fontawesome.com/v5.15/icons
+    # service item loop
+    - icon : fas fa-graduation-cap #https://fontawesome.com/v5.15/icons
       name: éducation
       content: "Tous les élèves se doivent d'avoir accès à l'enseignement de la programmation"
 
     # service item loop
+    - icon : fas fa-tablet-alt #https://fontawesome.com/v5.15/icons
+      name: Multiplateforme
+      content: "Programmation depuis ordinateur, téléphone ou tablette"
+
+    # service item loop
+    - icon : fas fa-bullseye #https://fontawesome.com/v5.15/icons
+      name: Tutoriels
+      content: "Tutoriels pour accompagner l'utilisateur de la meilleure des manières"
+
+    # service item loop
+    - icon : fas fa-shopping-cart #https://fontawesome.com/v5.15/icons
+      name: Suivi client
+      content: "Service après vente pour répondre à toute éventualité"
+
+    # service item loop
     - icon : fas fa-leaf #https://fontawesome.com/v5.15/icons
-      name: Développement
-      content: "Service après vente et droit de réparer"
+      name: Conception durable
+      content: "Fabriqué en impression 3D avec des matériaux naturels"
+
+    # service item loop
+    - icon : fas fa-tools #https://fontawesome.com/v5.15/icons
+      name: Droit de réparer
+      content: "Utilisation de pièces standardisées permettant des réparations faciles"
+
 
 ############################# call to action #################################
 cta:

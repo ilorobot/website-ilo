@@ -34,11 +34,6 @@ Il convaincra aussi ceux qui comme nous veulent un robot performant pour tester 
     count : "33"
 
   # funfacts loop
-  #- icon : "fas fa-trophy" #https://fontawesome.com/v5.15/icons
-  #  name : "Awards Winner"
-  #  count : "10"
-
-  # funfacts loop
   - icon : "fas fa-glass-cheers" #https://fontawesome.com/v5.15/icons
     name : "Professeur satisfait"
     count : "1"
@@ -54,8 +49,8 @@ features:
     content : "Une application mobile sera bientôt disponible pour faciliter la configuration et l'utilisation"
 
   # feature item loop
-  - icon : "fas fa-unlock" #https://fontawesome.com/v5.15/icons
-    name : "Sécurité du robot"
+  - icon : "fas fa-paper-plane" #https://fontawesome.com/v5.15/icons
+    name : "Expérience stable"
     content : "Le robot et l'application mobile communiquent par une connection sécurisée, permettant une expérience utilisateur stable"
 
   # feature item loop
@@ -67,6 +62,11 @@ features:
   - icon : "fab fa-osi" #https://fontawesome.com/v5.15/icons
     name : "Solution libre de droits"
     content : "La robotique c'est ausi le partage du savoir, ainsi ce projet est open source. Chaque parties est modifiable et accessbile par tous sans restrictions de droits"
+
+  # feature item loop
+  - icon : "fas fa-user-graduate" #https://fontawesome.com/v5.15/icons
+    name : "Education"
+    content : "Suit l'étudiant pendant toute sa scolarité, de la primaire à l'université"
 
 
 #################################### testimonial & mission vision #######################################

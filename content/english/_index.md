@@ -4,7 +4,7 @@ banner:
   enable: true
   bg_image: "images/slider-bg.png"
   bg_overlay: true
-  title: "Best Robot for Education"
+  title: "A New Robot for Education"
   content: "Robots are the best way to learn programing from a young age. We propose a solution called ilo, where each child can program individually, directly on a sheet of paper with a pencil"
   button:
     enable: true
@@ -53,7 +53,7 @@ cta:
 ############################# Funfacts ###############################
 funfacts:
   enable: true
-  title: "Fun Facts About the Project"
+  title: "Intersting Facts About the Project"
   description: "'Whether we are based on carbon or on silicon makes no fundamental difference; we should each be treated with appropriate respect.' <br>
 ― Arthur C. Clarke, 2010: Odyssey Two "
   funfact_item:
@@ -63,9 +63,9 @@ funfacts:
     count: "56"
 
   # funfacts item loop
-  - icon: "fas fa-glasses" #https://fontawesome.com/v5.15/icons
-    name: "Broken Glasses by ilo"
-    count: "0"
+  - icon: "fas fa-ruler" #https://fontawesome.com/v5.15/icons
+    name: "Meter of Plastic 3D Printed"
+    count: "192"
 
   # funfacts item loop
   - icon: "fas fa-keyboard" #https://fontawesome.com/v5.15/icons
@@ -76,6 +76,16 @@ funfacts:
   - icon: "fas fa-clock" #https://fontawesome.com/v5.15/icons
     name: "Combined Hours on the Project"
     count: "2563"
+
+  # funfacts item loop
+  - icon: "fas fa-user-graduate" #https://fontawesome.com/v5.15/icons
+    name: "Satisfied Students"
+    count: "33"
+
+  # funfacts item loop
+  - icon: "fas fa-chalkboard-teacher" #https://fontawesome.com/v5.15/icons
+    name: "Satisfied Teachers"
+    count: "1"
 
   testimonial_slider:
   # testimonial item loop

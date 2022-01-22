@@ -50,44 +50,37 @@ service:
   description : "We want to offer the robot, its app, and various tutorials for teachers and students.  We also want to offer an after-sales service to ensure the sustainability of the robot."
   service_item:
     # service item loop
-    - icon : fas fa-bullseye #https://fontawesome.com/v5.15/icons
-      name: Education
-      content: "Each student should have access to programing education"
-
-    # service item loop
-    #- icon : fas fa-layer-group #https://fontawesome.com/v5.15/icons
-    #  name: Web Design
-    #  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-    # service item loop
-    #- icon : fas fa-image #https://fontawesome.com/v5.15/icons
-    #  name: App Design
-    #  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-    # service item loop
-    #- icon : fas fa-bug #https://fontawesome.com/v5.15/icons
-    #  name: Start Up
-    #  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-    # service item loop
-    #- icon : fas fa-headphones-alt #https://fontawesome.com/v5.15/icons
-    #  name: Logo Design
-    #  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-    # service item loop
     - icon : fas fa-leaf #https://fontawesome.com/v5.15/icons
-      name: Development
-      content: "After-sale service and right to repair"
+      name: Sustainable design
+      content: "Manufactured in 3D printing with natural materials"
 
     # service item loop
-    #- icon : fas fa-globe-asia #https://fontawesome.com/v5.15/icons
-    #  name: Brand Identity
-    #  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - icon : fas fa-graduation-cap #https://fontawesome.com/v5.15/icons
+      name: Education
+      content: "Every students should be able to program algorithms"
 
     # service item loop
-    #- icon : fas fa-feather #https://fontawesome.com/v5.15/icons
-    #  name: Brand Identity
-     # content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - icon : fas fa-tablet-alt #https://fontawesome.com/v5.15/icons
+      name: Multiplateform
+      content: "Programming from computer, smartphone or tablet"
+
+    # service item loop
+    - icon : fas fa-tools #https://fontawesome.com/v5.15/icons
+      name: Right to repair
+      content: "Use of standardized parts for easy repair"
+
+    # service item loop
+    - icon : fas fa-bullseye #https://fontawesome.com/v5.15/icons
+      name: Tutorials
+      content: "Tutorials to support the user in the best way"
+
+    # service item loop
+    - icon : fas fa-shopping-cart #https://fontawesome.com/v5.15/icons
+      name: Customer care
+      content: "After sales service to respond to any eventuality"
+
+
+
 
 ############################# call to action #################################
 cta:
