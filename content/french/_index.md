@@ -45,7 +45,7 @@ service:
 ############################ call to action ###########################
 cta:
   enable: true
-  bg_image: "images/call-to-action-bg.jpg"
+  bg_image: "images/call-to-action-bg.png"
   title: "Nous proposons une nouvelle manière de coder"
   content: "ILO est support tangible pour l'apprentissage de la programamtion.<br>N'hésitez pas à nous contacter pour en savoir plus à propos du projet."
   button:

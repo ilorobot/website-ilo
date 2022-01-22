@@ -42,7 +42,7 @@ service:
 ############################ call to action ###########################
 cta:
   enable: true
-  bg_image: "images/call-to-action-bg.jpg"
+  bg_image: "images/call-to-action-bg.png"
   title: "We propose a new way of coding"
   content: "Read more about what we propose for our users.<br>Do not hesitate to contact us to know more about the project."
   button:
